@@ -1,6 +1,6 @@
 # To-do Flutter app
 
-![To-do Img](project.png =100x20)
+![](project.png =100x20)
 
 ## Getting Started
 For help getting started with Flutter, view our
